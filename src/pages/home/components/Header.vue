@@ -46,9 +46,6 @@ export default {
       background: #fff
       border-radius: .1rem
       color: #ccc
-      //自己加的
-      text-align: left
-
     .header-right
       width: 1.24rem
       float: right
